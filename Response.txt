@@ -1,0 +1,22 @@
+= Homework 4: Mid-course survey
+
+My goal is to be an effective instructor.  Please fill out an anonymous
+survey to help me achieve that goal.  I do not collect your username, GMail
+address, or other personally identifying information.  The only information
+recorded are your answers to these questions as well as the date and time the
+form was filled out.
+
+Because your information is not attached to the survey form, I'm asking
+you to indicate below that you've filled out the form (on the honor
+system).  To indicate that you did that, change the "NO" to a "YES"
+and submit this homework the same way you submitted HWs 1, 2, and 3.
+
+The survey form is located at:
+
+https://docs.google.com/forms/d/e/1FAIpQLSfmXjIh4SzbptI92OXhlkNuW9zWkNK98W8SGuNy
+0dLofjEBzw/viewform
+
+Thank you for your time and input in improving the course.
+
+# Change this to YES to indicate you filled out the survey form
+HW4Completed=NO
